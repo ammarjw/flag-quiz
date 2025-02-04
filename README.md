@@ -1,4 +1,4 @@
-# Flag Quiz App
+# Flag Quiz
 
 This project is a simple quiz application where users guess the country based on a displayed flag. It stores quiz data in a PostgreSQL database and renders dynamic questions on a webpage. The goal of this project was to practice server-side rendering, database integration, and handling form submissions.
 
