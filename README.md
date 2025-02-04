@@ -6,7 +6,6 @@ This project is a simple quiz application where users guess the country based on
 
 ## Features
 - Randomly displays flag-based quiz questions.
-- Users can submit answers and receive immediate feedback.
 - Tracks and displays the total number of correct answers.
 - Data storage with PostgreSQL for quiz questions.
 - Responsive design for desktop and mobile devices.
